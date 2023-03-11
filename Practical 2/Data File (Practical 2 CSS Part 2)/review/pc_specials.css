@@ -87,7 +87,7 @@ div#awardList {
   overflow: auto;
 }
 
-div.award {
+div#awardList div {
   position: absolute;
   width: 30%;
 }
